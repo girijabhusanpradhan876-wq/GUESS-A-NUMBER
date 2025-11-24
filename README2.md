@@ -6,8 +6,6 @@ A simple and fun number-guessing game written in C.
 
 # 🌟 1. What Is Unique in My Project?
 
-(Mandatory Section -- 2 Marks)
-
 Many students create basic number-guessing games, but **my project
 includes unique enhancements** that make it different from the standard
 version:
