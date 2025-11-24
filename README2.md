@@ -50,10 +50,8 @@ The game continues until the correct number is guessed.
 
 # 🖥 4. Screenshots of Output
 
-(Add your screenshots in the repository and reference as below)
+![Game Output](./Screenshot%202025-11-24%20160542.png)
 
-    ![Sample Screenshot 1](screenshots/output1.png)
-    ![Sample Screenshot 2](screenshots/output2.png)
 
 ------------------------------------------------------------------------
 
