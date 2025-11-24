@@ -50,7 +50,7 @@ The game continues until the correct number is guessed.
 
 # 🖥 4. Screenshots of Output
 
-![Game Output](./Screenshot%202025-11-24%20160542.png)
+[![Game Output](./Screenshot%202025-11-24%20160542.png)](https://github.com/girijabhusanpradhan876-wq/guess-a-number./blob/53d8b0f837b75203844e2b957f642ebd9700775a/Screenshot%202025-11-24%20160542.png)
 
 
 ------------------------------------------------------------------------
