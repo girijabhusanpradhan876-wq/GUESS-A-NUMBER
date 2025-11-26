@@ -6,23 +6,7 @@ A simple and fun number-guessing game written in C.
 
 # 🌟 1. What Is Unique in My Project?
 
-Many students create basic number-guessing games, but **my project
-includes unique enhancements** that make it different from the standard
-version:
-
-### ✅ My Unique Contributions
-
--   Added **attempt counter** to show how many tries the player took.\
--   Added **difficulty levels** (Easy, Medium, Hard) with different
-    number ranges.\
--   Implemented **input validation**, preventing crashes when invalid
-    values are entered.\
--   Added a **replay option** so the user can play multiple rounds
-    without restarting the program.\
--   Improved **UI/UX messages** for a smoother experience.\
--   (Optional) Added **colored terminal output** for better visual
-    clarity (Linux/Mac).
-
+This project includes an adaptive difficulty engine that learns from the player’s guessing patterns. With each round, the game intelligently adjusts the hidden number range and hint frequency, creating a personalized challenge that feels dynamic, unpredictable, and impossible to copy from traditional guess-a-number games.”
 ------------------------------------------------------------------------
 
 # 📌 2. Project Overview
